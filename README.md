@@ -5,12 +5,12 @@ Este curso permite a un DBA adquirir los conocimientos necesarios para instalar 
 
 ## Temario
 
-•	Sesión 1: Introducción y Vistazo a MongoDB
-•	Sesión 2: Instalación Básica y CRUD, Creating, Reading and Updating Data
-•	Sesión 3: Colecciones y contenido Binario
-•	Sesión 4: Replicación
-•	Sesión 5: Escalabilidad
-•	Sesión 6: Backup y recuperación
-•	Sesión 7: Seguridad. Autenticación y Autorización
-•	Sesión 8: Javascript en el serveside, instalación en la nube
+ * Sesión 1: Introducción y Vistazo a MongoDB
+ * Sesión 2: Instalación Básica y CRUD, Creating, Reading and Updating Data
+ * Sesión 3: Colecciones y contenido Binario
+ * Sesión 4: Replicación
+ * Sesión 5: Escalabilidad
+ * Sesión 6: Backup y recuperación
+ * Sesión 7: Seguridad. Autenticación y Autorización
+ * Sesión 8: Javascript en el serveside, instalación en la nube
 
