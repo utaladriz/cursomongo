@@ -1,8 +1,12 @@
 # Ejercicio 7
 
+Cree un usuario root
+
 Cree una base de datos llamada seguridad.  
 En esa base de datos agregue un usuario administrador.  
-A continuación cree una colección llamada alumnos en la base  de datos curso.  
+A continuación cree una colección llamada alumnos en la base  de datos curso. 
+
+Recuerde iniciar el demonio mongod con la opción --auth 
 
 ## usuarios
 
