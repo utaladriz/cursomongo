@@ -12,7 +12,7 @@ Recuerde iniciar el demonio mongod con la opción --auth
 
   * Cree un usuario llamado lectura con password lectura123, con privilegios de find para la colección curso
   * Desconectese de mongoshell y vuelva a conectarse como el usuario lectura. Comprueba que no puede insertar datos en la colección alumnos.
-   *"param.command": { $in: [ "find", "insert", "delete", "update", "findandmodify" ] } e un usuario llamado insertar con password insertar123, con privilegios de find e insert para la colección curso
+  * Cree un usuario llamado insertar con password insertar123, con privilegios de find e insert para la colección curso
   * Desconectese de mongoshell y vuelva  a conectarse como el usuario insertar. Comprueba que puede insertar datos en la colección alumnos, pero que no puede realizar updates ni borrar.
     * Cree un usuario llamado full con password fullrw123, con privilegios de find, insert, update y remove para la colección curso
   * Desconectese de mongoshell y vuelva a conectarse como el usuario full. Compruebe que realizar todas las operaciones sobre la colección alumnos.
